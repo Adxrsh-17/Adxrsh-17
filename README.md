@@ -1,39 +1,82 @@
-# 👋 Hi, I’m @Adxrsh-17 (Adarsh Pradeep)
+# Adarsh Pradeep (@Adxrsh-17)
 
-- 👀 I’m interested in AI/ML, Web Development, and building intelligent solutions.
-- 🌱 I’m currently learning advanced Machine Learning, Quantum AI, and full-stack development.
-- 💞️ I’m looking to collaborate on innovative AI projects, especially involving Neural Networks and Predictive Modeling.
-- 📫 How to reach me: [ads.vibgyor.17@gmail.com](mailto:ads.vibgyor.17@gmail.com)  
-  - [GitHub](https://github.com/Adxrsh) | [LinkedIn](https://linkedin.com/in/adarsh_pradeep) | [Portfolio](https://aieb1.github.io/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I participated in the NASA Space Apps Challenge and built a smart vacuum robot for an AI project!
+I am an aspiring AI Engineer currently pursuing B.Tech in Computer Science and Artificial Intelligence Engineering at Amrita Vishwa Vidyapeetham. With a strong foundation in programming, problem-solving, and creative development, I am passionate about building intelligent systems that address real-world challenges.
 
 ---
 
-🛠️ **Technical Skills**  
-- **Programming**: C++, Java, Python, C, MATLAB  
-- **Web Development**: HTML5, CSS, JavaScript  
-- **Database**: MongoDB  
-- **Data Analysis**: Power BI  
-- **Tools & Platforms**: Git, GitHub, OpenCV, VS Code, Regex
+## 📌 Profile Summary
 
-🎓 **Education**  
-- B.Tech in Computer Science and Artificial Intelligence Engineering, Amrita Vishwa Vidyapeetham (2023–2027)
-
-📜 **Certifications**  
-- AI for All: From Basics to GenAI Practice — NVIDIA  
-- Supervised ML: Regression and Classification — DeepLearning.AI  
-- Data Foundations — Google
-
-🚀 **Projects**  
-- **SMART Vacuum Cleaner Robot** — Autonomous cleaning with AI  
-- **AI Symphony** — Music generation using RNNs  
-- **Gene Expression Predictor** — ANN-based biological data modeling  
-- **Movie Recommender** — User clustering for personalized suggestions
-
-🌐 **Experience**  
-- **NASA Space Apps Challenge** — Innovated on Earth observation tech (Oct 2024)  
-- **Entrepreneurship Program @ PSG STEP** — Focused on drone and robotics innovations (May–June 2024)
+- Strong foundation in data structures, object-oriented programming, and machine learning.
+- Experience in developing AI models, embedded robotic systems, and data-driven web applications.
+- Proficient in both academic research projects and hackathon-oriented innovation.
+- Participant in NASA Space Apps Challenge 2024 and PSG STEP Entrepreneurship Program.
 
 ---
-✨ Let's connect and build something impactful!
+
+## 🧠 Technical Skills
+
+**Languages**: Python, C++, Java, C, MATLAB  
+**Web Technologies**: HTML5, CSS3, JavaScript  
+**Databases**: MongoDB  
+**Data Analysis**: Power BI  
+**Tools & Frameworks**: Git, GitHub, OpenCV, Regex, VS Code, MS Office
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science and Artificial Intelligence Engineering**  
+*Amrita Vishwa Vidyapeetham, Coimbatore (2023 – 2027)*  
+CGPA: 7.79 / 10
+
+**12th Grade – AISSCE (2023)**  
+Vidhya Niketan Public School — 87%
+
+**10th Grade – AISSE (2021)**  
+Vivekam Senior Secondary School — 91%
+
+---
+
+## 📄 Certifications
+
+- **AI for All: From Basics to GenAI Practice** — NVIDIA (March 2025)  
+- **Supervised Machine Learning: Regression and Classification** — DeepLearning.AI (Feb 2025)  
+- **Foundations: Data, Data Everywhere** — Google (Nov 2024)
+
+---
+
+## 🚀 Projects
+
+- **[Campus Network Intelligence System (WiFi)](https://github.com/MystCryptBust344/Campus-Network-Intelligence-System-involving-wireless-network-WiFi)**  
+  Intelligent monitoring system for wireless campus networks.
+
+- **[Autonomous Cleaning Robot (Arduino)](https://github.com/MystCryptBust344/Arduino-Based-Implementation-of-an-Autonomous-Cleaning-Robot)**  
+  Arduino-powered smart robot for autonomous floor cleaning.
+
+- **[Metagenomic Data Analytics](https://github.com/MystCryptBust344/Metagenomic-Data-Analytics)**  
+  Bioinformatics project analyzing large-scale gene data using machine learning techniques.
+
+---
+
+## 🏆 Experience
+
+**NASA Space Apps Challenge (Oct 2024)**  
+- Participated in an international hackathon focused on Earth observation and environmental monitoring.  
+- Built and presented an AI-based vacuum robot.
+
+**Entrepreneurship Development Program — PSG STEP (May–June 2024)**  
+- Completed a 6-week bootcamp on innovation in drone and robotics technology.
+
+---
+
+## 🔗 Links
+
+- Email: [ads.vibgyor.17@gmail.com](mailto:ads.vibgyor.17@gmail.com)  
+- GitHub: [github.com/Adxrsh](https://github.com/Adxrsh)  
+- LinkedIn: [linkedin.com/in/adarsh_pradeep](https://linkedin.com/in/adarsh_pradeep)  
+- LeetCode: [adarsh_coding_17](https://leetcode.com/u/adarsh_coding_17/)  
+- Portfolio: [aieb1.github.io](https://aieb1.github.io/)
+
+---
+
+> Let's connect and collaborate on intelligent, meaningful innovations.
