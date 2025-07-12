@@ -75,7 +75,7 @@ Vivekam Senior Secondary School — 91%
 - GitHub: [github.com/Adxrsh](https://github.com/Adxrsh)  
 - LinkedIn: [linkedin.com/in/adarsh_pradeep](https://linkedin.com/in/adarsh_pradeep)  
 - LeetCode: [adarsh_coding_17](https://leetcode.com/u/adarsh_coding_17/)  
-- Portfolio: [aieb1.github.io](https://aieb1.github.io/)
+
 
 ---
 
