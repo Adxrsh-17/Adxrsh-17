@@ -1,10 +1,10 @@
 # Adarsh Pradeep (@Adxrsh-17)
 
-I am an aspiring AI Engineer currently pursuing B.Tech in Computer Science and Artificial Intelligence Engineering at Amrita Vishwa Vidyapeetham. With a strong foundation in programming, problem-solving, and creative development, I am passionate about building intelligent systems that address real-world challenges.
+I am an aspiring AI Engineer currently pursuing a B.Tech in Computer Science and Artificial Intelligence Engineering at Amrita Vishwa Vidyapeetham. With a strong foundation in programming, problem-solving, and creative development, I am passionate about building intelligent systems that address real-world challenges.
 
 ---
 
-## 📌 Profile Summary
+## 📌 **Profile Summary**
 
 - Strong foundation in data structures, object-oriented programming, and machine learning.
 - Experience in developing AI models, embedded robotic systems, and data-driven web applications.
@@ -13,7 +13,7 @@ I am an aspiring AI Engineer currently pursuing B.Tech in Computer Science and A
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 **Technical Skills**
 
 **Languages**: Python, C++, Java, C, MATLAB  
 **Web Technologies**: HTML5, CSS3, JavaScript  
@@ -23,7 +23,7 @@ I am an aspiring AI Engineer currently pursuing B.Tech in Computer Science and A
 
 ---
 
-## 🎓 Education
+## 🎓 **Education**
 
 **B.Tech in Computer Science and Artificial Intelligence Engineering**  
 *Amrita Vishwa Vidyapeetham, Coimbatore (2023 – 2027)*  
@@ -37,7 +37,7 @@ Vivekam Senior Secondary School — 91%
 
 ---
 
-## 📄 Certifications
+## 📄 **Certifications**
 
 - **AI for All: From Basics to GenAI Practice** — NVIDIA (March 2025)  
 - **Supervised Machine Learning: Regression and Classification** — DeepLearning.AI (Feb 2025)  
@@ -45,20 +45,23 @@ Vivekam Senior Secondary School — 91%
 
 ---
 
-## 🚀 Projects
+## 🚀 **Projects**
 
-- **[Campus Network Intelligence System (WiFi)](https://github.com/MystCryptBust344/Campus-Network-Intelligence-System-involving-wireless-network-WiFi)**  
-  Intelligent monitoring system for wireless campus networks.
+- **[Matrimony Flutter App](https://github.com/LitenTechnologies/matrimony-flutter-app)**  
+  *Flutter, Firebase* — Chat, image uploads, profile editing.
+
+- **[Campus Network Intelligence System](https://github.com/MystCryptBust344/Campus-Network-Intelligence-System-involving-wireless-network-WiFi)**  
+  *WiFi Monitoring* — WiFi monitoring dashboard.
 
 - **[Autonomous Cleaning Robot (Arduino)](https://github.com/MystCryptBust344/Arduino-Based-Implementation-of-an-Autonomous-Cleaning-Robot)**  
-  Arduino-powered smart robot for autonomous floor cleaning.
+  *Arduino* — Obstacle detection + path-following.
 
 - **[Metagenomic Data Analytics](https://github.com/MystCryptBust344/Metagenomic-Data-Analytics)**  
-  Bioinformatics project analyzing large-scale gene data using machine learning techniques.
+  *ML* — Genome classification using machine learning techniques.
 
 ---
 
-## 🏆 Experience
+## 🏆 **Experience**
 
 **NASA Space Apps Challenge (Oct 2024)**  
 - Participated in an international hackathon focused on Earth observation and environmental monitoring.  
@@ -69,13 +72,12 @@ Vivekam Senior Secondary School — 91%
 
 ---
 
-## 🔗 Links
+## 🔗 **Links**
 
-- Email: [ads.vibgyor.17@gmail.com](mailto:ads.vibgyor.17@gmail.com)  
-- GitHub: [github.com/Adxrsh](https://github.com/Adxrsh)  
-- LinkedIn: [linkedin.com/in/adarsh_pradeep](https://linkedin.com/in/adarsh_pradeep)  
-- LeetCode: [adarsh_coding_17](https://leetcode.com/u/adarsh_coding_17/)  
-
+- **Email**: [ads.vibgyor.17@gmail.com](mailto:ads.vibgyor.17@gmail.com)  
+- **GitHub**: [github.com/Adxrsh](https://github.com/Adxrsh)  
+- **LinkedIn**: [linkedin.com/in/adarsh_pradeep](https://linkedin.com/in/adarsh_pradeep)  
+- **LeetCode**: [adarsh_coding_17](https://leetcode.com/u/adarsh_coding_17/)
 
 ---
 
