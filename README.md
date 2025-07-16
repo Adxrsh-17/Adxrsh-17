@@ -56,10 +56,6 @@ Vivekam Senior Secondary School — 91%
 - **[Autonomous Cleaning Robot (Arduino)](https://github.com/MystCryptBust344/Arduino-Based-Implementation-of-an-Autonomous-Cleaning-Robot)**  
   *Arduino* — Obstacle detection + path-following.
 
-- **[Metagenomic Data Analytics](https://github.com/MystCryptBust344/Metagenomic-Data-Analytics)**  
-  *ML* — Genome classification using machine learning techniques.
-
----
 
 ## 🏆 **Experience**
 
