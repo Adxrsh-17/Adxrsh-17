@@ -1,79 +1,76 @@
-# Hi, I'm Adarsh Pradeep 👋
+# 👋 Hi, I'm Adarsh Pradeep (@Adxrsh-17)
 
-**Aspiring AI Engineer**  
-[ads.vibgyor.17@gmail.com](mailto:ads.vibgyor.17@gmail.com) | [+91-8807227858](tel:+918807227858)  
-[GitHub](https://github.com/Adxrsh-17) | [LinkedIn](https://www.linkedin.com/in/adarshpradeep17/) | [LeetCode](https://leetcode.com/u/adarsh_coding_17/) | [Website](https://adarsh-pradeep.vercel.app/)
+**Aspiring AI Engineer | Computational Innovator | Tech Explorer**
 
 ---
 
-I am an aspiring AI Engineer currently pursuing a B.Tech in Computer Science and Artificial Intelligence Engineering at Amrita Vishwa Vidyapeetham. With a strong foundation in programming, problem-solving, and creative development, I am passionate about building intelligent systems that address real-world challenges.
-
-Let's connect and collaborate on intelligent, meaningful innovations.
+I’m currently pursuing a B.Tech in Computer Science and Artificial Intelligence at Amrita Vishwa Vidyapeetham. Driven by curiosity and a relentless appetite for impactful technology, I thrive on building intelligent systems that solve real-world problems. Whether it's designing data-driven platforms, creating robotics solutions, or architecting learning pipelines, my journey is powered by imagination and clean code.
 
 ---
 
-## 💡 Profile Summary
+## 🚀 Profile Snapshot
 
-- Strong foundation in **data structures**, **object-oriented programming**, and **machine learning**
-- Experience developing **AI models**, **embedded robotic systems**, and **data-driven web applications**
-- Proficient in academic research and hackathon-oriented innovation
-- Participant in NASA Space Apps Challenge 2024 and PSG STEP Entrepreneurship Program
+- **Lifelong Learner:** In pursuit of elegant solutions and mastery of algorithms.
+- **Multidisciplinary Builder:** Background in machine learning, networks, embedded robotics, full-stack apps.
+- **Team Innovator:** Hackathons and research, with international exposure (NASA Space Apps 2024).
+- **Vision for Impact:** Transforming ideas into solutions that empower people and communities.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-- **Languages:** Python, C++, Java, C, MATLAB, Dart
-- **Web Technologies:** HTML5, CSS3, JavaScript, Flutter, REST API
-- **Databases:** MongoDB, Firebase
-- **Data Analysis:** Power BI
-- **Tools & Frameworks:** Git, GitHub, OpenCV, Regex, VS Code, MS Office
-- **Focus Areas:** Data Structures & Algorithms, OOP, Networks, Machine Learning, Deep Learning, Full-Stack & Mobile App Development
+| Languages | Python · C++ · Java · C · MATLAB · Dart |
+| --- | --- |
+| Web Technologies | HTML5 · CSS3 · JavaScript · Flutter · REST API |
+| Databases | MongoDB · Firebase |
+| Data & Tools | Power BI · OpenCV · Regex · Git · VS Code · MS Office |
+| Skill Areas | DSA · OOP · ML · Deep Learning · Full-Stack · Mobile Apps · Networks |
 
 ---
 
 ## 🎓 Education
 
-**B.Tech in Computer Science and Artificial Intelligence Engineering**  
-Amrita Vishwa Vidyapeetham, Coimbatore  
-2023 – 2027  
-CGPA: 7.79 / 10
+- **B.Tech – Computer Science & AI Engineering**  
+  Amrita Vishwa Vidyapeetham, Coimbatore  
+  *2023–2027* &nbsp;|&nbsp; CGPA: 7.79/10
 
-**12th Grade – AISSCE**  
-Vidhya Niketan Public School, Tamil Nadu  
-2021 – 2023  
-87% (Maths, Physics, Chemistry, Computer Science, English)
+- **12th – AISSCE, 2023**  
+  Vidhya Niketan Public School, Tamil Nadu – 87% (Maths, Physics, Chemistry, CS, English)
 
-**10th Grade – AISSE**  
-Vivekam Senior Secondary School, Tamil Nadu  
-2021  
-91%
+- **10th – AISSE, 2021**  
+  Vivekam Senior Secondary School, Tamil Nadu – 91%
 
 ---
 
-## 📑 Certifications
+## 🎖️ Certifications
 
-- **AI for All: From Basics to GenAI Practice** — NVIDIA (March 2025)
-- **Supervised Machine Learning: Regression and Classification** — DeepLearning.AI (February 2025)
-- **Foundations: Data, Data Everywhere** — Google (November 2024)
-
----
-
-## 🏆 Experience
-
-**Web Developer**  
-Tensor Club  
-*July 2025 – Present*  
-Developed and maintained web platforms for the club's digital presence.
-
-**NASA Space Apps Challenge**  
-*October 2024*  
-Participated in an international hackathon focused on Earth observation and environmental monitoring. Worked on Earth observation using open datasets.
-
-**Entrepreneurship Development Program — PSG STEP**  
-*May – June 2024*  
-Completed a 6-week bootcamp on innovation in drone and robotics technology.
+- **NVIDIA — AI for All: From Basics to GenAI Practice** *(Mar 2025)*
+- **DeepLearning.AI — Supervised ML: Regression and Classification** *(Feb 2025)*
+- **Google — Foundations: Data, Data Everywhere** *(Nov 2024)*
 
 ---
 
-Feel free to reach out, connect, or collaborate!
+## 🌍 Experience
+
+- **Web Developer**  
+  *Tensor Club* (Jul 2025 – Present)  
+  Owner of digital transformation for web platforms and club UI/UX.
+
+- **NASA Space Apps Challenge**  
+  *Participant (Oct 2024)*  
+  Earth observation & environmental AI — global collaboration.
+
+- **PSG STEP Entrepreneurship Development Program**  
+  *May–Jun 2024*  
+  6-week bootcamp: drones, robotics, ideation to execution.
+
+---
+
+## 📡 Let's Connect!
+
+- [GitHub](https://github.com/Adxrsh-17) · [LinkedIn](https://www.linkedin.com/in/adarshpradeep17/) · [LeetCode](https://leetcode.com/u/adarsh_coding_17/) · [Website](https://adarsh-pradeep.vercel.app/)
+- [ads.vibgyor.17@gmail.com](mailto:ads.vibgyor.17@gmail.com) · [+91-8807227858](tel:+918807227858)
+
+---
+
+> "Innovation begins at the intersection of ambition, empathy, and code."
