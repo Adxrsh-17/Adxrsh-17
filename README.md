@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to my GitHub! I specialize in crafting AI-driven solutions and transforming creative ideas into reliable code. Currently pursuing a B.Tech in Computer Science & Artificial Intelligence Engineering at Amrita Vishwa Vidyapeetham, I thrive at the intersection of data, logic, and curiosity.
+I specialize in crafting AI-driven solutions and transforming creative ideas into reliable code. Currently pursuing a B.Tech in Computer Science & Artificial Intelligence at Amrita Vishwa Vidyapeetham, I thrive at the intersection of data, logic, and curiosity.
 
 ---
 
@@ -65,12 +65,26 @@ Vivekam Senior Secondary School, Tamil Nadu
 
 ## 🔗 Connect With Me
 
-- 📧 [ads.vibgyor.17@gmail.com](mailto:ads.vibgyor.17@gmail.com)
-- 📱 [+91-8807227858](tel:+918807227858)
-- 🖥️ [Website](https://adarsh-pradeep.vercel.app/)
-- 💻 [GitHub](https://github.com/Adxrsh-17)
-- 💼 [LinkedIn](https://www.linkedin.com/in/adarshpradeep17/)
-- 🧑‍💻 [LeetCode](https://leetcode.com/u/adarsh_coding_17/)
+<p align="left">
+  <a href="mailto:ads.vibgyor.17@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-ads.vibgyor.17@gmail.com-blue?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://adarsh-pradeep.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visit-blue?logo=vercel" alt="Website" />
+  </a>
+  <a href="https://github.com/Adxrsh-17" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Adxrsh--17-black?logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/adarshpradeep17/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Pradeep-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/adarsh_coding_17/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-adarsh_coding_17-orange?logo=leetcode" alt="LeetCode" />
+  </a>
+  <a href="tel:+918807227858" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-%2B91--8807227858-green?logo=whatsapp" alt="Phone" />
+  </a>
+</p>
 
 ---
 
