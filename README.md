@@ -55,18 +55,18 @@ Vivekam Senior Secondary School, Tamil Nadu
 - **Entrepreneurship Development Program, PSG STEP** *(May–Jun 2024)*
   🚁 Innovated in drones, robotics, startup prototyping, and rapid development.
 
----
-
 ## 🔗 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-ads.vibgyor.17@gmail.com-blue?logo=gmail&logoColor=white)](mailto:ads.vibgyor.17@gmail.com)
-[![Website](https://img.shields.io/badge/Website-Visit-blue?logo=vercel)](https://adarsh-pradeep.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Adxrsh--17-black?logo=github)](https://github.com/Adxrsh-17)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh%20Pradeep-blue?logo=linkedin)](https://www.linkedin.com/in/adarshpradeep17/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-adarsh_coding_17-orange?logo=leetcode)](https://leetcode.com/u/adarsh_coding_17/)
-[![Phone](https://img.shields.io/badge/Phone-%2B91--8807227858-green?logo=whatsapp)](tel:+918807227858)
+|                |                           |
+|----------------|---------------------------|
+| 📧 Email       | [ads.vibgyor.17@gmail.com](mailto:ads.vibgyor.17@gmail.com) |
+| 🌐 Website     | [Visit](https://adarsh-pradeep.vercel.app/)          |
+| 🐙 GitHub      | [Adxrsh-17](https://github.com/Adxrsh-17)            |
+| 👔 LinkedIn    | [Adarsh Pradeep](https://www.linkedin.com/in/adarshpradeep17/) |
+| 🧮 LeetCode    | [adarsh_coding_17](https://leetcode.com/u/adarsh_coding_17/)   |
+| 📱 Phone       | [+91-8807227858](tel:+918807227858)                  |
 
----
+
 
 > *“Great code is born from bold ideas, relentless learning, and collaborative spirit.”*
 
