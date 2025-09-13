@@ -10,60 +10,79 @@ I'm passionate about unlocking real-world impact through technology—from advan
 
 ---
 
-## 🛠️ Programming Languages & Frameworks
+## 💻 Programming Languages
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="45" height="45"/>
 </p>
 
-## ⚙️ Development Tools & Technologies
+## 🌐 Web & Mobile Development
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
+</p>
+
+## 🗄️ Databases & Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
 </p>
 
 ---
 
-## 🎯 Core Competencies
+## 🎯 Technical Expertise
 
-| **Domain** | **Skills** |
-|------------|------------|
-| **🤖 Artificial Intelligence** | Machine Learning · Deep Learning · Computer Vision · NLP · Neural Networks |
-| **💻 Software Development** | Full-Stack Development · Mobile Apps · REST APIs · Microservices · DSA |
-| **📊 Data Science** | Data Analysis · Statistical Modeling · Data Visualization · Predictive Analytics |
-| **🌐 Web Technologies** | Frontend Development · Backend Development · Database Design · Cloud Computing |
-| **🔧 Development Practices** | Version Control · Agile Methodologies · Code Review · Testing · DevOps |
+### 🤖 **Artificial Intelligence & Machine Learning**
+- **Machine Learning Algorithms** • **Deep Learning** • **Computer Vision** • **Data Analytics**
+- **Quantum Neural Networks** • **Echo State Networks** • **Predictive Modeling**
+
+### 💻 **Software Development**
+- **Data Structures & Algorithms** • **Object-Oriented Programming** • **Full-Stack Development**
+- **Mobile App Development** • **REST API Integration** • **Database Management**
+
+### 🌐 **Web Technologies**
+- **Frontend Development** (HTML5, CSS3, JavaScript) • **Mobile Development** (Flutter, Dart)
+- **Backend Integration** • **Firebase Services** • **MongoDB Operations**
+
+### 🔧 **Development Practices**
+- **Version Control** (Git, GitHub) • **Code Analysis** • **Data Visualization**
+- **Network Systems** • **Computer Vision Applications**
+
+---
+
+## 🚀 Featured Projects
+
+### 🔗 **Matrimony Flutter App**
+**Tech Stack:** Flutter, Firebase, Dart  
+**Features:** Real-time chat, image uploads, profile editing system
+
+### 📡 **Campus Network Intelligence System** 
+**Tech Stack:** Network Monitoring, Data Analytics  
+**Features:** WiFi monitoring dashboard with intelligent analytics
+
+### 🤖 **Autonomous Cleaning Robot**
+**Tech Stack:** Arduino, C++, IoT  
+**Features:** Obstacle detection and autonomous path-following algorithms
+
+### 🧬 **Metagenomic Data Analytics**
+**Tech Stack:** Python, Machine Learning  
+**Features:** Advanced genome classification using ML algorithms
+
+### 🌪️ **Wind Forecasting Models**
+**Tech Stack:** Python, Quantum Neural Networks, Echo State Networks  
+**Features:** Time-series forecasting with cutting-edge neural architectures
 
 ---
 
@@ -88,7 +107,6 @@ I'm passionate about unlocking real-world impact through technology—from advan
 - 🚀 **NVIDIA:** AI for All: From Basics to GenAI Practice *(Mar 2025)*
 - 🧠 **DeepLearning.AI:** Supervised ML: Regression and Classification *(Feb 2025)*
 - 📊 **Google:** Foundations: Data, Data Everywhere *(Nov 2024)*
-- 🏆 **Multiple Hackathon Participations:** HackRX Bajaj, Adobe Hackathon, Smart India Hackathon
 - 🌍 **NASA Space Apps Challenge Participant** *(Oct 2024)*
 
 ---
@@ -98,32 +116,32 @@ I'm passionate about unlocking real-world impact through technology—from advan
 ### **🌐 Web Developer, Tensor Club** *(Jul 2025 – Present)*
 - 🛠️ Building and optimizing digital platforms for seamless club engagement
 - 📱 Developing responsive web applications using modern frameworks
-- 🔄 Implementing CI/CD pipelines for efficient deployment
+- 🔄 Leading full-stack development initiatives
 
 ### **🚀 NASA Space Apps Challenge, Participant** *(Oct 2024)*
-- 🌍 Collaborated globally on Earth observation and environmental AI solutions
+- 🌍 Collaborated on Earth observation projects using open datasets
 - 🤝 Cross-functional teamwork with international participants
-- 🔬 Applied machine learning to space and environmental challenges
+- 🔬 Applied data science to environmental challenges
 
 ### **💡 Entrepreneurship Development Program, PSG STEP** *(May–Jun 2024)*
-- 🚁 Innovated in drones, robotics, and startup prototyping
-- ⚡ Rapid development methodologies and MVP creation
-- 🎯 Business model development and pitch presentation
+- 🚁 6-week innovation bootcamp focused on drones and robotics
+- ⚡ Rapid prototyping and MVP development
+- 🎯 Startup methodology and business model creation
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adxrsh-17&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adxrsh-17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adxrsh-17&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adxrsh-17&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxrsh-17&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxrsh-17&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
