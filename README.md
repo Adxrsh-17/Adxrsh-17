@@ -64,41 +64,89 @@ I'm passionate about unlocking real-world impact through technology—from advan
 
 ## 🚀 Featured Projects
 
-### 🔗 **Matrimony Flutter App**
-**Tech Stack:** Flutter, Firebase, Dart  
-**Features:** Real-time chat, image uploads, profile editing system
+<div align="left">
 
-### 📡 **Campus Network Intelligence System** 
-**Tech Stack:** Network Monitoring, Data Analytics  
-**Features:** WiFi monitoring dashboard with intelligent analytics
+### 📱 **Matrimony Flutter App**
+> **A comprehensive mobile application for matrimonial services with real-time features**
+
+**🛠️ Tech Stack:** `Flutter` `Firebase` `Dart` `REST API`
+
+**✨ Key Features:**
+- 💬 Real-time chat messaging system with Firebase integration
+- 📸 Advanced image upload and profile management capabilities
+- 🔐 Secure authentication and user profile editing
+- 📱 Cross-platform mobile compatibility with responsive UI design
+
+**🎯 Impact:** Enhanced user engagement through seamless real-time communication and intuitive profile management
+
+---
+
+### 🌐 **Campus Network Intelligence System**
+> **Smart WiFi monitoring dashboard with intelligent network analytics**
+
+**🛠️ Tech Stack:** `Network Monitoring` `Data Analytics` `Python` `Power BI`
+
+**✨ Key Features:**
+- 📊 Real-time network performance monitoring and visualization
+- 🔍 Intelligent anomaly detection for network optimization
+- 📈 Comprehensive analytics dashboard with actionable insights
+- ⚡ Automated reporting system for network administrators
+
+**🎯 Impact:** Improved campus network reliability and reduced downtime through proactive monitoring
+
+---
 
 ### 🤖 **Autonomous Cleaning Robot**
-**Tech Stack:** Arduino, C++, IoT  
-**Features:** Obstacle detection and autonomous path-following algorithms
+> **AI-powered cleaning robot with advanced navigation and obstacle detection**
+
+**🛠️ Tech Stack:** `Arduino` `C++` `IoT` `Computer Vision`
+
+**✨ Key Features:**
+- 🛤️ Autonomous path-following algorithms with optimal route planning
+- 🚧 Advanced obstacle detection and avoidance systems
+- 🎛️ IoT integration for remote monitoring and control
+- 🔋 Efficient power management and automated charging capabilities
+
+**🎯 Impact:** Demonstrated practical application of robotics in daily life automation
+
+---
 
 ### 🧬 **Metagenomic Data Analytics**
-**Tech Stack:** Python, Machine Learning  
-**Features:** Advanced genome classification using ML algorithms
+> **Advanced genome classification system using cutting-edge machine learning**
+
+**🛠️ Tech Stack:** `Python` `Machine Learning` `Data Science` `Bioinformatics`
+
+**✨ Key Features:**
+- 🔬 Sophisticated genome classification algorithms with high accuracy
+- 📊 Comprehensive data preprocessing and feature extraction pipelines
+- 🧠 Advanced ML models for pattern recognition in genomic data
+- 📈 Statistical analysis and visualization of biological insights
+
+**🎯 Impact:** Contributed to bioinformatics research with scalable genomic analysis solutions
+
+---
 
 ### 🌪️ **Wind Forecasting Models**
-**Tech Stack:** Python, Quantum Neural Networks, Echo State Networks  
-**Features:** Time-series forecasting with cutting-edge neural architectures
+> **Next-generation time-series forecasting using Quantum Neural Networks**
+
+**🛠️ Tech Stack:** `Python` `Quantum Neural Networks` `Echo State Networks` `TensorFlow`
+
+**✨ Key Features:**
+- ⚡ Cutting-edge Quantum Neural Network implementation for enhanced accuracy
+- 🌊 Echo State Networks for complex temporal pattern recognition
+- 📊 Advanced time-series analysis with multiple forecasting horizons
+- 🎯 Real-time prediction capabilities with model optimization
+
+**🎯 Impact:** Advanced renewable energy planning through accurate wind pattern predictions
+
+</div>
 
 ---
 
 ## 🎓 Education
 
 **🎯 B.Tech – Computer Science & Artificial Intelligence Engineering**  
-📍 Amrita Vishwa Vidyapeetham, Coimbatore  
-📅 2023–2027 — **CGPA: 7.79/10**
-
-**📚 12th Grade – AISSCE**  
-📍 Vidhya Niketan Public School, Tamil Nadu  
-📅 2021–2023 — **87%** (Maths, Physics, Chemistry, CS, English)
-
-**📖 10th Grade – AISSE**  
-📍 Vivekam Senior Secondary School, Tamil Nadu  
-📅 2021 — **91%**
+📅 2023–2027 | Currently pursuing advanced coursework in AI, ML, and Software Engineering
 
 ---
 
@@ -116,17 +164,17 @@ I'm passionate about unlocking real-world impact through technology—from advan
 ### **🌐 Web Developer, Tensor Club** *(Jul 2025 – Present)*
 - 🛠️ Building and optimizing digital platforms for seamless club engagement
 - 📱 Developing responsive web applications using modern frameworks
-- 🔄 Leading full-stack development initiatives
+- 🔄 Leading full-stack development initiatives and mentoring junior developers
 
 ### **🚀 NASA Space Apps Challenge, Participant** *(Oct 2024)*
 - 🌍 Collaborated on Earth observation projects using open datasets
 - 🤝 Cross-functional teamwork with international participants
-- 🔬 Applied data science to environmental challenges
+- 🔬 Applied data science to environmental challenges with innovative solutions
 
 ### **💡 Entrepreneurship Development Program, PSG STEP** *(May–Jun 2024)*
 - 🚁 6-week innovation bootcamp focused on drones and robotics
-- ⚡ Rapid prototyping and MVP development
-- 🎯 Startup methodology and business model creation
+- ⚡ Rapid prototyping and MVP development methodologies
+- 🎯 Startup methodology and business model creation with pitch presentations
 
 ---
 
@@ -179,10 +227,4 @@ I'm passionate about unlocking real-world impact through technology—from advan
 
 **✨ Open to collaborations and exciting opportunities in AI, ML, and Full-Stack Development ✨**
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adxrsh-17&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
