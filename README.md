@@ -73,18 +73,25 @@ I'm passionate about unlocking real-world impact through technology—from advan
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adxrsh-17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Adxrsh-17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" 
+    alt="GitHub Stats" 
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adxrsh-17&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Adxrsh-17&theme=radical&hide_border=true&background=0D1117" 
+    alt="GitHub Streak" 
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxrsh-17&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxrsh-17&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" 
+    alt="Top Languages" 
+  />
 </div>
-
----
 
 ## 🔗 Connect With Me
 
