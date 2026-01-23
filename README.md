@@ -1,3 +1,5 @@
+![Uploading linkedin-banner.png…]()
+
 <div align="center">
 
 # 👋 Hi, I'm Adarsh Pradeep (@Adxrsh-17)
@@ -149,9 +151,6 @@ I specialize in crafting **AI-driven solutions** and transforming creative ideas
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adxrsh-17&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="98%"/>
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Adxrsh-17&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="98%"/>
 
 ### 📊 Detailed Stats Overview
 
@@ -204,11 +203,6 @@ I specialize in crafting **AI-driven solutions** and transforming creative ideas
 
 <div align="center">
 
-### 💭 Quote I Live By
-
-*"Great code is born from bold ideas, relentless learning, and collaborative spirit."*
-
-### 🚀 Always learning, always building, always innovating!
 
 **✨ Open to collaborations and exciting opportunities in AI, ML, and Full-Stack Development ✨**
 
