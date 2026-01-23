@@ -109,16 +109,70 @@ I specialize in crafting **AI-driven solutions** and transforming creative ideas
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adxrsh-17&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxrsh-17&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+### 📈 Performance Metrics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adxrsh-17&theme=radical&hide_border=true" alt="GitHub Streak" width="600"/>
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Adxrsh-17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=27" alt="GitHub Stats"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxrsh-17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adxrsh-17&theme=redical&hide_border=true&area=true" alt="Contribution Graph" width="800"/>
+### 🔥 Contribution Streak & Activity
+
+<table width="100%">
+<tr>
+<td width="100%" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adxrsh-17&theme=tokyonight&hide_border=true&stroke=0000&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6&sideNums=3B82F6&dates=70A5FD&sideLabels=3B82F6" alt="GitHub Streak" width="90%"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adxrsh-17&theme=tokyonight" alt="Commit Graph" width="90%"/>
+</td>
+</tr>
+</table>
+
+### 📅 Yearly Contribution Heatmap
+
+<img src="https://ghchart.rshah.org/3B82F6/Adxrsh-17" alt="Contribution Heatmap" width="90%"/>
+
+### 📉 Contribution Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adxrsh-17&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="98%"/>
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Adxrsh-17&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="98%"/>
+
+### 📊 Detailed Stats Overview
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+**Total Contributions (2024-2025)**
+
+<img src="https://github-readme-stats.vercel.app/api?username=Adxrsh-17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Overall%20Statistics" alt="Overall Stats" width="100%"/>
+
+</td>
+<td width="50%" align="center">
+
+**Repository Languages**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxrsh-17&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Language Distribution" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
