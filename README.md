@@ -137,7 +137,6 @@ I specialize in crafting **AI-driven solutions** and transforming creative ideas
 </tr>
 <tr>
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adxrsh-17&theme=tokyonight" alt="Commit Graph" width="90%"/>
 </td>
 </tr>
 </table>
