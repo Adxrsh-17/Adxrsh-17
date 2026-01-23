@@ -1,108 +1,166 @@
-
 <div align="center">
 
-# 👋 Hi, I'm Adarsh Pradeep (@Adxrsh-17)
+# Adarsh Pradeep
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Computational+Visionary;Problem+Solver+%26+Innovator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full-Stack+Developer;Machine+Learning+Researcher;Building+Intelligent+Systems;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
-**Aspiring AI Engineer | Tech Innovator | Research Enthusiast**
+**Computer Science & Artificial Intelligence** • **Amrita Vishwa Vidyapeetham**
 
-[![GitHub followers](https://img.shields.io/github/followers/Adxrsh-17?label=Followers&style=social)](https://github.com/Adxrsh-17)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub Adxrsh-17](https://img.shields.io/github/followers/Adxrsh-17?label=Follow&style=social)](https://github.com/Adxrsh-17)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Adxrsh-17&color=6366f1&style=flat&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I specialize in crafting **AI-driven solutions** and transforming creative ideas into reliable, scalable code. Currently pursuing a **B.Tech in Computer Science & Artificial Intelligence** at **Amrita Vishwa Vidyapeetham**, I thrive at the intersection of data, logic, and curiosity.
+AI Engineer specializing in **machine learning**, **deep learning**, and **full-stack development**. I transform complex problems into intelligent, scalable solutions through research-driven innovation and clean code architecture.
 
-🔬 **My Focus Areas:**
-- Developing cutting-edge **Machine Learning** and **Deep Learning** models
-- Building intuitive **Web & Mobile Applications**
-- Exploring **Quantum Neural Networks** and advanced AI architectures
-- Contributing to **Open Source** and collaborative innovation
-
-💡 My experience blends hackathons, research projects, and team collaborations, bringing diverse perspectives to solve real-world problems through technology.
+**Current Focus:**
+- 🧠 Quantum Neural Networks & Advanced AI Architectures
+- 🔬 Echo State Networks Research
+- 👁️ Computer Vision Applications
+- 🚀 Building Production-Ready ML Systems
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Technology Stack
 
-### 👨‍💻 Programming Languages
+<details open>
+<summary><b>💻 Programming & Development</b></summary>
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌐 Web & Mobile Development
+</details>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-</p>
+<details open>
+<summary><b>🤖 AI/ML & Data Science</b></summary>
+<br>
 
-### 🗄️ Databases & Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+</details>
 
-### 🤖 AI/ML & Data Science
+<details open>
+<summary><b>🌐 Web & Mobile Development</b></summary>
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Cloud</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Tools & Platforms</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</details>
 
 ---
 
-## 🎯 Technical Expertise
+## 📊 GitHub Analytics & Activity
+
+<div align="center">
+
+### 📈 **Overview Statistics**
+
+<img src="https://github-readme-stats.vercel.app/api?username=Adxrsh-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1&text_color=a9b1d6&rank_icon=github&include_all_commits=true&count_private=true" width="49.5%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxrsh-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=a9b1d6&langs_count=8" width="49.5%" alt="Top Languages" />
+
+### 🔥 **Contribution Streak**
+
+<img src="https://streak-stats.demolab.com/?user=Adxrsh-17&theme=tokyonight&hide_border=true&background=1a1b27&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideNums=a9b1d6&sideLabels=6366f1&dates=737aa2" width="70%" alt="GitHub Streak" />
+
+### 📅 **Contribution Heatmap**
+
+<img src="https://ghchart.rshah.org/6366f1/Adxrsh-17" alt="GitHub Contribution Chart" width="90%" />
+
+### 📉 **Activity Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adxrsh-17&bg_color=1a1b27&color=6366f1&line=6366f1&point=a9b1d6&area=true&hide_border=true&custom_title=Contribution%20Activity%20Timeline" width="98%" alt="Contribution Graph" />
+
+### 🏆 **GitHub Trophies**
+
+<img src="https://github-profile-trophy.vercel.app/?username=Adxrsh-17&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="98%" alt="GitHub Trophies" />
+
+### 📊 **Detailed Metrics**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adxrsh-17&theme=tokyonight" width="98%" alt="Profile Summary" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adxrsh-17&theme=tokyonight" width="32%" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adxrsh-17&theme=tokyonight" width="32%" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adxrsh-17&theme=tokyonight&utcOffset=5.5" width="32%" alt="Productive Time" />
+
+</div>
+
+---
+
+## 🎯 Core Competencies
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI & Machine Learning
-- **Machine Learning Algorithms**
-- **Deep Learning & Neural Networks**
-- **Computer Vision**
-- **Natural Language Processing**
-- **Quantum Neural Networks**
-- **Echo State Networks**
-- **Predictive Modeling**
-- **Data Analytics & Visualization**
+### 🤖 Artificial Intelligence
+- Machine Learning Algorithms
+- Deep Learning & Neural Networks
+- Computer Vision & Image Processing
+- Natural Language Processing
+- Quantum Neural Networks
+- Echo State Networks
+- Reinforcement Learning
+- Predictive Analytics
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💻 Software Development
-- **Data Structures & Algorithms**
-- **Object-Oriented Programming**
-- **Full-Stack Web Development**
-- **Mobile App Development**
-- **REST API Design & Integration**
-- **Database Management Systems**
-- **Version Control (Git/GitHub)**
-- **Agile Development Practices**
+### 💻 Software Engineering
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Full-Stack Web Development
+- Mobile Application Development
+- RESTful API Design
+- Database Architecture
+- Version Control & CI/CD
+- Agile Methodologies
 
 </td>
 </tr>
@@ -110,94 +168,32 @@ I specialize in crafting **AI-driven solutions** and transforming creative ideas
 
 ---
 
-## 📊 GitHub Analytics
+## 🌟 Featured Projects & Research
+
+> 🔬 **Quantum Neural Networks** - Exploring quantum computing applications in machine learning  
+> 🧠 **Echo State Networks** - Research on reservoir computing for time-series prediction  
+> 👁️ **Computer Vision Systems** - Real-time object detection and image classification  
+> 📱 **Mobile AI Applications** - Flutter-based ML-powered mobile solutions  
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-### 📈 Performance Metrics
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adxrsh-17)
+[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Adxrsh-17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=27" alt="GitHub Stats"/>
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxrsh-17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</td>
-</tr>
-</table>
+### 💡 Open to Collaboration
 
-### 🔥 Contribution Streak & Activity
+**Research Projects** • **AI/ML Development** • **Full-Stack Solutions** • **Open Source Contributions**
 
-<table width="100%">
-<tr>
-<td width="100%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adxrsh-17&theme=tokyonight&hide_border=true&stroke=0000&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6&sideNums=3B82F6&dates=70A5FD&sideLabels=3B82F6" alt="GitHub Streak" width="90%"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-</td>
-</tr>
-</table>
+---
 
-### 📅 Yearly Contribution Heatmap
+*"Innovation distinguishes between a leader and a follower."* — Steve Jobs
 
-<img src="https://ghchart.rshah.org/3B82F6/Adxrsh-17" alt="Contribution Heatmap" width="90%"/>
-
-### 📉 Contribution Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adxrsh-17&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="98%"/>
-
-
-### 📊 Detailed Stats Overview
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-**Total Contributions (2024-2025)**
-
-<img src="https://github-readme-stats.vercel.app/api?username=Adxrsh-17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Overall%20Statistics" alt="Overall Stats" width="100%"/>
-
-</td>
-<td width="50%" align="center">
-
-**Repository Languages**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxrsh-17&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Language Distribution" width="100%"/>
-
-</td>
-</tr>
-</table>
+**⭐ Star my repositories if you find them useful!**
 
 </div>
-
-
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adxrsh-17)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-
-</div>
-
----
-
-<div align="center">
-
-
-**✨ Open to collaborations and exciting opportunities in AI, ML, and Full-Stack Development ✨**
-
-<img src="https://komarev.com/ghpvc/?username=Adxrsh-17&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-
----
-
-**Made with ❤️ by Adarsh Pradeep**
-
-</div> 
