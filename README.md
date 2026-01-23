@@ -1,134 +1,167 @@
-
-<img width="901" height="227" alt="linkedin-banner" src="https://github.com/user-attachments/assets/d10013f9-b149-4caa-8cd6-78510c265e2f" />
+<div align="center">
 
 # 👋 Hi, I'm Adarsh Pradeep (@Adxrsh-17)
-**Aspiring AI Engineer | Computational Visionary | Tech Innovator**
 
-I specialize in crafting AI-driven solutions and transforming creative ideas into reliable code. Currently pursuing a B.Tech in Computer Science & Artificial Intelligence at Amrita Vishwa Vidyapeetham, I thrive at the intersection of data, logic, and curiosity.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Computational+Visionary;Problem+Solver+%26+Innovator)](https://git.io/typing-svg)
+
+**Aspiring AI Engineer | Tech Innovator | Research Enthusiast**
+
+[![GitHub followers](https://img.shields.io/github/followers/Adxrsh-17?label=Followers&style=social)](https://github.com/Adxrsh-17)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
+</div>
 
 ---
 
-## 🌟 About Me
-I'm passionate about unlocking real-world impact through technology—from advanced machine learning models and robotics to intuitive web platforms. My experience blends hackathons, research, and collaborative strength, providing diverse perspectives for innovative solutions.
+## 🚀 About Me
+
+I specialize in crafting **AI-driven solutions** and transforming creative ideas into reliable, scalable code. Currently pursuing a **B.Tech in Computer Science & Artificial Intelligence** at **Amrita Vishwa Vidyapeetham**, I thrive at the intersection of data, logic, and curiosity.
+
+🔬 **My Focus Areas:**
+- Developing cutting-edge **Machine Learning** and **Deep Learning** models
+- Building intuitive **Web & Mobile Applications**
+- Exploring **Quantum Neural Networks** and advanced AI architectures
+- Contributing to **Open Source** and collaborative innovation
+
+💡 My experience blends hackathons, research projects, and team collaborations, bringing diverse perspectives to solve real-world problems through technology.
 
 ---
 
-## 💻 Programming Languages
+## 💻 Tech Stack
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="45" height="45"/>
+### 👨‍💻 Programming Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-## 🌐 Web & Mobile Development
+### 🌐 Web & Mobile Development
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
-## 🗄️ Databases & Tools
+### 🗄️ Databases & Tools
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+### 🤖 AI/ML & Data Science
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
 ---
 
 ## 🎯 Technical Expertise
 
-### 🤖 **Artificial Intelligence & Machine Learning**
-- **Machine Learning Algorithms** • **Deep Learning** • **Computer Vision** • **Data Analytics**
-- **Quantum Neural Networks** • **Echo State Networks** • **Predictive Modeling**
+<table>
+<tr>
+<td width="50%">
 
-### 💻 **Software Development**
-- **Data Structures & Algorithms** • **Object-Oriented Programming** • **Full-Stack Development**
-- **Mobile App Development** • **REST API Integration** • **Database Management**
+### 🤖 AI & Machine Learning
+- **Machine Learning Algorithms**
+- **Deep Learning & Neural Networks**
+- **Computer Vision**
+- **Natural Language Processing**
+- **Quantum Neural Networks**
+- **Echo State Networks**
+- **Predictive Modeling**
+- **Data Analytics & Visualization**
 
-### 🌐 **Web Technologies**
-- **Frontend Development** (HTML5, CSS3, JavaScript) • **Mobile Development** (Flutter, Dart)
-- **Backend Integration** • **Firebase Services** • **MongoDB Operations**
+</td>
+<td width="50%">
 
-### 🔧 **Development Practices**
-- **Version Control** (Git, GitHub) • **Code Analysis** • **Data Visualization**
-- **Network Systems** • **Computer Vision Applications**
+### 💻 Software Development
+- **Data Structures & Algorithms**
+- **Object-Oriented Programming**
+- **Full-Stack Web Development**
+- **Mobile App Development**
+- **REST API Design & Integration**
+- **Database Management Systems**
+- **Version Control (Git/GitHub)**
+- **Agile Development Practices**
 
+</td>
+</tr>
+</table>
 
-
-
-
-
-
+---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Adxrsh-17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" 
-    alt="GitHub Stats" 
-  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Adxrsh-17&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxrsh-17&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adxrsh-17&theme=radical&hide_border=true" alt="GitHub Streak" width="600"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adxrsh-17&theme=redical&hide_border=true&area=true" alt="Contribution Graph" width="800"/>
+
 </div>
 
-<div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Adxrsh-17&theme=radical&hide_border=true&background=0D1117" 
-    alt="GitHub Streak" 
-  />
-</div>
+---
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxrsh-17&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" 
-    alt="Top Languages" 
-  />
-</div>
+## 🏆 Achievements & Highlights
+
+- 🎓 Pursuing B.Tech in **Computer Science & Artificial Intelligence**
+- 🔬 Research experience in **Quantum Neural Networks** and **Echo State Networks**
+- 🏅 Active participant in **Hackathons** and **Coding Competitions**
+- 🌟 Contributed to various **Open Source Projects**
+- 💡 Developed multiple **AI/ML applications** and **Full-Stack projects**
+
+---
 
 ## 🔗 Connect With Me
 
-<p align="center">
-<a href="mailto:ads.vibgyor.17@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://adarsh-pradeep.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://github.com/Adxrsh-17">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/adarshpradeep17/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://leetcode.com/u/adarsh_coding_17/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-</a>
-<a href="tel:+918807227858">
-<img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
-</a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adxrsh-17)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+
+</div>
 
 ---
 
 <div align="center">
-  
-> *"Great code is born from bold ideas, relentless learning, and collaborative spirit."*
+
+### 💭 Quote I Live By
+
+*"Great code is born from bold ideas, relentless learning, and collaborative spirit."*
 
 ### 🚀 Always learning, always building, always innovating!
 
 **✨ Open to collaborations and exciting opportunities in AI, ML, and Full-Stack Development ✨**
 
+<img src="https://komarev.com/ghpvc/?username=Adxrsh-17&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+---
+
+**Made with ❤️ by Adarsh Pradeep**
+
 </div>
-
-
-
-y is 2024 not showing here also please enhance and make the presentation look well
-give updateed readme
