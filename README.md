@@ -177,14 +177,6 @@ AI Engineer specializing in **machine learning**, **deep learning**, and **full-
 
 ---
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adxrsh-17)
-[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
 
 ### 💡 Open to Collaboration
 
