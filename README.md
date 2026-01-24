@@ -6,11 +6,6 @@
 
 **Computer Science & Artificial Intelligence** • **Amrita Vishwa Vidyapeetham**
 
-[![GitHub Adxrsh-17](https://img.shields.io/github/followers/Adxrsh-17?label=Follow&style=social)](https://github.com/Adxrsh-17)
-[![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Adxrsh-17&color=6366f1&style=flat&label=Profile+Views)
-
 </div>
 
 ---
