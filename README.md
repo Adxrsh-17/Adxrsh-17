@@ -95,10 +95,6 @@ AI Engineer specializing in **machine learning**, **deep learning**, and **full-
 
 <div align="center">
 
-### 📈 **Overview Statistics**
-
-<img src="https://github-readme-stats.vercel.app/api?username=Adxrsh-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1&text_color=a9b1d6&rank_icon=github&include_all_commits=true&count_private=true" width="49.5%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxrsh-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=a9b1d6&langs_count=8" width="49.5%" alt="Top Languages" />
 
 ### 🔥 **Contribution Streak**
 
