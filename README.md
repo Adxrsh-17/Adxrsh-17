@@ -96,33 +96,39 @@ AI Engineer specializing in **machine learning**, **deep learning**, and **full-
 <div align="center">
 
 ### 📈 **Overview Statistics**
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adxrsh-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1&text_color=a9b1d6&rank_icon=github&include_all_commits=true&count_private=true" width="49.5%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxrsh-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=a9b1d6&langs_count=8" width="49.5%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Adxrsh-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1&text_color=a9b1d6&rank_icon=github&include_all_commits=true&count_private=true" width="49.5%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxrsh-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=a9b1d6&langs_count=8" width="49.5%" />
 
 ### 🔥 **Contribution Streak**
+<br/>
 
-<img src="https://streak-stats.demolab.com/?user=Adxrsh-17&theme=tokyonight&hide_border=true&background=1a1b27&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideNums=a9b1d6&sideLabels=6366f1&dates=737aa2" width="70%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Adxrsh-17&theme=tokyonight&hide_border=true&background=1a1b27&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideNums=a9b1d6&sideLabels=6366f1&dates=737aa2" width="70%" />
 
 ### 📅 **Contribution Heatmap**
+<br/>
 
-<img src="https://ghchart.rshah.org/6366f1/Adxrsh-17" alt="GitHub Contribution Chart" width="90%" />
+<img src="https://ghchart.rshah.org/6366f1/Adxrsh-17" width="90%" />
 
 ### 📉 **Activity Graph**
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adxrsh-17&bg_color=1a1b27&color=6366f1&line=6366f1&point=a9b1d6&area=true&hide_border=true&custom_title=Contribution%20Activity%20Timeline" width="98%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adxrsh-17&bg_color=1a1b27&color=6366f1&line=6366f1&point=a9b1d6&area=true&hide_border=true&custom_title=Contribution%20Activity%20Timeline" width="98%" />
 
 ### 🏆 **GitHub Trophies**
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Adxrsh-17&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="98%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Adxrsh-17&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="98%" />
 
 ### 📊 **Detailed Metrics**
+<br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adxrsh-17&theme=tokyonight" width="98%" alt="Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adxrsh-17&theme=tokyonight" width="98%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adxrsh-17&theme=tokyonight" width="32%" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adxrsh-17&theme=tokyonight" width="32%" alt="Most Commit Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adxrsh-17&theme=tokyonight&utcOffset=5.5" width="32%" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adxrsh-17&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adxrsh-17&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adxrsh-17&theme=tokyonight&utcOffset=5.5" width="32%" />
 
 </div>
 
@@ -165,13 +171,12 @@ AI Engineer specializing in **machine learning**, **deep learning**, and **full-
 
 ## 🌟 Featured Projects & Research
 
-> 🔬 **Quantum Neural Networks** - Exploring quantum computing applications in machine learning  
-> 🧠 **Echo State Networks** - Research on reservoir computing for time-series prediction  
-> 👁️ **Computer Vision Systems** - Real-time object detection and image classification  
-> 📱 **Mobile AI Applications** - Flutter-based ML-powered mobile solutions  
+> 🔬 **Quantum Neural Networks** – Exploring quantum computing applications in machine learning  
+> 🧠 **Echo State Networks** – Research on reservoir computing for time-series prediction  
+> 👁️ **Computer Vision Systems** – Real-time object detection and image classification  
+> 📱 **Mobile AI Applications** – Flutter-based ML-powered mobile solutions  
 
 ---
-
 
 ### 💡 Open to Collaboration
 
@@ -179,8 +184,6 @@ AI Engineer specializing in **machine learning**, **deep learning**, and **full-
 
 ---
 
-*"Innovation distinguishes between a leader and a follower."* — Steve Jobs
+*"Innovation distinguishes between a leader and a follower."* — Steve Jobs  
 
 **⭐ Star my repositories if you find them useful!**
-
-</div>
