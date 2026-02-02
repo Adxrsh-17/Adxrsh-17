@@ -1,3 +1,5 @@
+<img width="901" height="227" alt="linkedin-banner" src="https://github.com/user-attachments/assets/f75dbd7e-1f27-4c39-a8ff-51bfbd53a95c" />
+
 <div align="center">
 
 # Adarsh Pradeep
