@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=720&lines=Generative+AI+%26+Computer+Vision+Engineer;Multi-Agent+RAG+%26+Deep+Learning+Systems;Generative+AI+Engineer+Intern+%40+Virtusa;IEEE+RECCAP+Published+Researcher" alt="Typing SVG" />
 </a>
 
-**B.Tech in Computer Science & Artificial Intelligence** • **Amrita Vishwa Vidyapeetham** (CGPA: 8.07/10)
+**B.Tech in Computer Science & Artificial Intelligence** • **Amrita Vishwa Vidyapeetham** 
 
 <p align="center">
   <a href="mailto:ads.vibgyor.17@gmail.com"><img src="https://img.shields.io/badge/Email-ads.vibgyor.17%40gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email" /></a>
