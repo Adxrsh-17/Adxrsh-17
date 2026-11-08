@@ -4,19 +4,97 @@
 
 
 
-**B.Tech in Computer Science & Artificial Intelligence** • **Amrita Vishwa Vidyapeetham** 
+<div align="center">
+
+# Adarsh Pradeep
+
+<a href="https://github.com/Adxrsh-17">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=720&lines=Multi-Agent+LLM+Systems+%7C+LangGraph;Multimodal+Search+%7C+CLIP+%2B+FAISS;Computer+Vision+%7C+PyTorch+%26+OpenCV" alt="Typing SVG" />
+</a>
 
 <p align="center">
   <a href="mailto:ads.vibgyor.17@gmail.com"><img src="https://img.shields.io/badge/Email-ads.vibgyor.17%40gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email" /></a>
   <a href="https://github.com/Adxrsh-17?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View_Portfolio-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Repositories" /></a>
-  <img src="https://img.shields.io/badge/IEEE_RECCAP-Published_2026-6366F1?style=for-the-badge&logo=ieee&logoColor=white&labelColor=1a1b27" alt="IEEE Publication" />
 </p>
+
+<img src="https://badges.pufler.dev/visits/Adxrsh-17/Adxrsh-17?style=for-the-badge&color=6366F1&logoColor=white&label=Profile%20Views" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Adxrsh-17?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=22D3EE" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Adxrsh-17?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=6366F1" alt="Stars" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Technology Stack
+
+<details open>
+<summary><b>🤖 AI, Machine Learning & Computer Vision</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+</details>
+
+<details open>
+<summary><b>💻 Languages, Backend & Cloud Infrastructure</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adxrsh-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=22d3ee&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxrsh-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&langs_count=8" width="49%" alt="Top Languages" />
+</p>
+
+<img src="https://streak-stats.demolab.com/?user=Adxrsh-17&theme=tokyonight&hide_border=true&background=1a1b27&ring=6366f1&fire=22d3ee&currStreakLabel=6366f1&sideNums=a9b1d6&sideLabels=6366f1&dates=737aa2" width="68%" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adxrsh-17&theme=tokyonight" width="96%" alt="Profile Summary" />
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adxrsh-17&theme=tokyonight" width="32%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adxrsh-17&theme=tokyonight" width="32%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adxrsh-17&theme=tokyonight&utcOffset=5.5" width="32%" alt="Productive Time" />
+</p>
+
+<img src="https://ghchart.rshah.org/6366f1/Adxrsh-17" alt="GitHub Contribution Chart" width="92%" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Adxrsh-17&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+
+</div>
 
 Final-year Computer Science & AI engineer specializing in **computer vision**, **multi-agent LLM orchestration**, and **high-throughput retrieval systems**. I focus on pairing stochastic deep learning models with deterministic safety guardrails and sub-millisecond vector search.
 
