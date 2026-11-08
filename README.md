@@ -1,7 +1,3 @@
-<div align="center">
-
-<img width="100%" alt="Adarsh Pradeep Banner" src="https://github.com/user-attachments/assets/f75dbd7e-1f27-4c39-a8ff-51bfbd53a95c" />
-
 # Adarsh Pradeep
 
 <img width="1403" height="477" alt="image" src="https://github.com/user-attachments/assets/59f4770b-e967-4fbb-911b-1acfc6c619f9" />
