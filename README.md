@@ -4,9 +4,9 @@
 
 # Adarsh Pradeep
 
-<a href="https://github.com/Adxrsh-17">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=720&lines=Generative+AI+%26+Computer+Vision+Engineer;Multi-Agent+RAG+%26+Deep+Learning+Systems;Generative+AI+Engineer+Intern+%40+Virtusa;IEEE+RECCAP+Published+Researcher" alt="Typing SVG" />
-</a>
+<img width="1403" height="477" alt="image" src="https://github.com/user-attachments/assets/59f4770b-e967-4fbb-911b-1acfc6c619f9" />
+
+
 
 **B.Tech in Computer Science & Artificial Intelligence** • **Amrita Vishwa Vidyapeetham** 
 
